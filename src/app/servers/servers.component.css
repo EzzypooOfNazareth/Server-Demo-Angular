@@ -1,0 +1,11 @@
+.container {
+    margin-top: 15px;
+}
+
+p {
+    margin: 10px 0 0 0;
+}
+
+.empty-space {
+    flex: 1 1 auto;
+}
